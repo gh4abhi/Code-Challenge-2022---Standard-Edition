@@ -5,8 +5,8 @@ using namespace std;
 
 void inOt()
 {
-    freopen("input.txt" , "r" , stdin);   // For getting input from input.txt file
-    freopen("output.txt" , "w" , stdout);  // Printing the Output to output.txt file
+    freopen("input.txt" , "r" , stdin);   
+    freopen("output.txt" , "w" , stdout); 
 }
 
 class DList

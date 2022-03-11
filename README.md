@@ -1,4 +1,4 @@
-# Code Challenge 2022 Standard Edition
+# Code Challenge 2022 - Standard Edition
 
 <b>Team Name :</b> Espy_Army
 

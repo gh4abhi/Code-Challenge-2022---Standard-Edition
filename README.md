@@ -1,8 +1,8 @@
 # Code Challenge 2022 Standard Edition
 
-**Team Name - Espy_Army
+<b>Team Name :</b> Espy_Army
 
-| |Team Members|
+| |**Team Members**|
 |----------------|-
 |1|`Abhishek Swaroop Shrivastava`          
 |2| `Harshal Sharma`        

@@ -35,22 +35,9 @@ class DList
 };
 bool cmp(pair<ll,DList> a, pair<ll,DList> b)
 {
-    if(a.second.vect[0]< b.second.vect[0] and a.second.vect[1]<b.second.vect[1] and a.second.sum>b.second.sum)
-        return 1;
-     else if(a.second.vect[0]< b.second.vect[0] and a.second.vect[1]<b.second.vect[1] and a.second.sum<b.second.sum)
-        {
-            if(max(a.second.vect[0]- b.second.vect[0], a.second.vect[1]-b.second.vect[1])<a.second.sum<b.second.sum)
-                return 1;
-            else
-            {
-                return 0;
-            }
-        } 
-        else if(a.second.vect[0]< b.second.vect[0] and a.second.vect[1]<b.second.vect[1] and a.second.sum>b.second.sum)
-        {
-            
-        }
-    else if(a.second.vect[0]< b.second.vect[0] and a.second.vect[1]<b.second.vect[1])
+    if(a.second.vect[0]< b.second.vect[0] and a.second.vect[1]<b.second.vect[1])
+        return 1; 
+    else if(a.second.vect[0]< b.second.vect[0] and a.second.vect[1]>b.second.vect[1])
     {
         if(a.second.vect[0]-b.second.vect[0]<a.second.vect[1]-b.second.vect[1])
             return 1;

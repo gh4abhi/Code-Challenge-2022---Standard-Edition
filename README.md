@@ -8,3 +8,7 @@
 |2| `Harshal Sharma`        
 |3|`Utkarsh Singh`
 |4|`Ashutosh Dubey`
+
+<b>Team Score :</b> 14.255.230
+
+<b>Team Rank :</b> 292
